@@ -1,7 +1,7 @@
 # gin_web
 
 #### 介绍
-负责linkbook的api服务
+负责gin_web的api服务
 
 #### 包管理
 使用gomod来管理go的包依赖
