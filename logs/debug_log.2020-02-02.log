@@ -1,0 +1,75 @@
+2020-02-02 11:34:26 star============================================>
+[接口地址: /token/create]
+
+2020-02-02 11:37:12 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:37:12 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6IjRDMDYyREEyLTRCMEQtNDkyRS04NEYyLTIzN0MzNTVBMTFBMCIsInVzZXJfaWQiOjEwMDAwMTA3NiwibGlua19ib29rX2lkIjoiYm9oc2IyNzFxcjNxZmpta2Q1ajAiLCJwYXNzd29yZCI6IiIsImVuZF90aW1lIjoxNTgxOTk0ODMxLCJpc191cGRhdGVfdXNlcl9pbmZvIjowLCJwbGF0X2Zvcm0iOiIifQ.ZQHu9HSdSg_noALEK-QcUKMSN8Zp4MOfR-6UeKORrnk]
+
+2020-02-02 11:39:57 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:39:57 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6IjRDMDYyREEyLTRCMEQtNDkyRS04NEYyLTIzN0MzNTVBMTFBMCIsInVzZXJfaWQiOjEwMDAwMTA3NiwibGlua19ib29rX2lkIjoiYm9oc2IyNzFxcjNxZmpta2Q1ajAiLCJwYXNzd29yZCI6IiIsImVuZF90aW1lIjoxNTgxOTk0ODMxLCJpc191cGRhdGVfdXNlcl9pbmZvIjowLCJwbGF0X2Zvcm0iOiIifQ.ZQHu9HSdSg_noALEK-QcUKMSN8Zp4MOfR-6UeKORrnk]
+
+2020-02-02 11:39:57 star============================================>
+[当前登录用户c <nil>]
+
+2020-02-02 11:40:41 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:40:41 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6Ikxhc3RMb2dpbkRldmljZSIsInVzZXJfaWQiOjEwMDAwMDAwMSwibGlua19ib29rX2lkIjoiMTAwMDAwMDAxIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJlbmRfdGltZSI6MTU4MzIwNjQ2NiwiaXNfdXBkYXRlX3VzZXJfaW5mbyI6MCwicGxhdF9mb3JtIjoiYXBwIn0.NubXzlLhOnfZbOxZ7Ex0v7dqV7Hs0bHY8pZAU6CdlGQ]
+
+2020-02-02 11:40:41 star============================================>
+[当前登录用户c 0xc00025e160]
+
+2020-02-02 11:41:48 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:41:48 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6Ikxhc3RMb2dpbkRldmljZSIsInVzZXJfaWQiOjEwMDAwMDAwMSwibGlua19ib29rX2lkIjoiMTAwMDAwMDAxIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJlbmRfdGltZSI6MTU4MzIwNjQ2NiwiaXNfdXBkYXRlX3VzZXJfaW5mbyI6MCwicGxhdF9mb3JtIjoiYXBwIn0.NubXzlLhOnfZbOxZ7Ex0v7dqV7Hs0bHY8pZAU6CdlGQ]
+
+2020-02-02 11:41:48 star============================================>
+[当前用户访问接口地址: /test/response]
+
+2020-02-02 11:41:48 star============================================>
+[当前登录用户c 100000001]
+
+2020-02-02 11:41:48 star============================================>
+[当前用户登录平台 app]
+
+2020-02-02 11:43:27 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:43:27 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6Ikxhc3RMb2dpbkRldmljZSIsInVzZXJfaWQiOjEwMDAwMDAwMSwibGlua19ib29rX2lkIjoiMTAwMDAwMDAxIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJlbmRfdGltZSI6MTU4MzIwNjQ2NiwiaXNfdXBkYXRlX3VzZXJfaW5mbyI6MCwicGxhdF9mb3JtIjoiYXBwIn0.NubXzlLhOnfZbOxZ7Ex0v7dqV7Hs0bHY8pZAU6CdlGQ]
+
+2020-02-02 11:43:27 star============================================>
+[当前用户访问接口地址: /test/response]
+
+2020-02-02 11:43:27 star============================================>
+[当前登录用户c 100000001]
+
+2020-02-02 11:43:27 star============================================>
+[当前用户登录平台 app]
+
+2020-02-02 11:45:33 star============================================>
+[接口地址: /test/response]
+
+2020-02-02 11:45:33 star============================================>
+[当前获取的ｔｏｋｅｎ信息： eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfdXVpZCI6Ikxhc3RMb2dpbkRldmljZSIsInVzZXJfaWQiOjEwMDAwMDAwMSwibGlua19ib29rX2lkIjoiMTAwMDAwMDAxIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJlbmRfdGltZSI6MTU4MzIwNjQ2NiwiaXNfdXBkYXRlX3VzZXJfaW5mbyI6MCwicGxhdF9mb3JtIjoiYXBwIn0.NubXzlLhOnfZbOxZ7Ex0v7dqV7Hs0bHY8pZAU6CdlGQ]
+
+2020-02-02 11:45:33 star============================================>
+[当前用户访问接口地址: /test/response]
+
+2020-02-02 11:45:33 star============================================>
+[当前登录用户c 当前登录用户&jwt.CustomClaims{DeviceUuid:"LastLoginDevice", UserId:100000001, LinkBookId:"100000001", Password:"123456", EndTime:1583206466, IsUpdateUserInfo:0, PlateForm:"app", StandardClaims:jwt.StandardClaims{Audience:"", ExpiresAt:0, Id:"", IssuedAt:0, Issuer:"", NotBefore:0, Subject:""}}]
+
+2020-02-02 11:45:33 star============================================>
+[当前登录用户c 100000001]
+
+2020-02-02 11:45:33 star============================================>
+[当前用户登录平台 app]
+
