@@ -2,6 +2,7 @@ package functionext
 
 import (
 	"crypto/md5"
+	"crypto/sha256"
 	"encoding/base64"
 	"encoding/hex"
 	"encoding/json"
@@ -32,11 +33,29 @@ func MD5Encode(encodeString string) string {
 	return strings.ToUpper(Md5Encode(encodeString))
 }
 
+//Md5Encode md5加密
+func Md5Encode2(str string)  string{
+	md5res := fmt.Sprintf("%x", md5.Sum([]byte(str)))
+	return md5res
+}
+
 // 生成随机数
 func MtRand(min, max int) int {
 	rand.Seed(time.Now().Unix())
 	randNum := rand.Intn(max-min) + min
 	return randNum
+}
+
+//加密解法签名
+func EncodeSign( appKey ,  appSecret,  tenantSign,  version string,  timestamp int64) (string, error) {
+	params := fmt.Sprintf("appKey=%s&appSecret=%s&tenantSign=%s&version=%s&timestamp=%d",appKey ,  appSecret,  tenantSign,  version,  timestamp)
+	h := sha256.New()
+	h.Write([]byte(tenantSign))
+	h.Write([]byte(params))
+	hashInBytes := h.Sum(nil)
+	signature := hex.EncodeToString(hashInBytes)
+	//返回哈希值
+	return signature, nil
 }
 
 //生成随机字符串

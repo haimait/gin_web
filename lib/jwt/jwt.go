@@ -26,7 +26,7 @@ var (
 // 载荷，可以加一些自己需要的信息
 type CustomClaims struct {
 	DeviceUuid       string `json:"device_uuid"`
-	UserId           int64  `json:"user_id"`
+	UserId           uint  `json:"user_id"`
 	LinkBookId       string `json:"link_book_id"`
 	Password         string `json:"password"`
 	EndTime          int64  `json:"end_time"`

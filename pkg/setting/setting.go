@@ -23,7 +23,7 @@ func init() {
 	if err != nil {
 		log.Fatalf("Fail to parse 'config/app.ini': %s", err)
 	}
-	RunMode = Cfg.Section("").Key("RUN_MODE").MustString("debug")
+	RunMode = Cfg.Section("server").Key("RUN_MODE").MustString("debug")
 	LoadServer()
 	LoadApp()
 }
@@ -34,7 +34,7 @@ func LoadServer() {
 		log.Fatalf("Fail to get section 'server': %s", err)
 	}
 
-	RunMode = Cfg.Section("").Key("RUN_MODE").MustString("debug")
+	RunMode = Cfg.Section("server").Key("RUN_MODE").MustString("debug")
 
 	HTTPPort = sec.Key("HTTP_PORT").MustInt(8000)
 	ReadTimeout = time.Duration(sec.Key("READ_TIMEOUT").MustInt(60)) * time.Second
@@ -52,7 +52,7 @@ func LoadApp() {
 }
 
 func env(section string) string {
-	return section + "_" + Cfg.Section("").Key("Env").MustString("test")
+	return section + "_" + Cfg.Section("server").Key("Env").MustString("test")
 }
 
 func GetSection(section string) (*ini.Section, error) {
